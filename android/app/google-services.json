@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855259997084",
+    "project_id": "notpade-77040",
+    "storage_bucket": "notpade-77040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855259997084:android:4343c4deac5f4c7fd31e59",
+        "android_client_info": {
+          "package_name": "com.example.notepad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJI17IrzrkF0Z1rc4pLbFW8XNDuNJI8g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
